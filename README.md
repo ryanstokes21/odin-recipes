@@ -1,1 +1,1 @@
-# odin-recipes
+I have shown that I can preform a veriety of html elements in this projet using the boilerplate firt then adding links <a href> specifing our <target> to other pages then providing headers <h1> <h2> ect.. We then used a image of the recipe using <img>, <src> and <alt>. I provided a breef paragraph <p> and then put my ingrediants in a unordered list using <ul> and <li> and I provided the direction for the dish in a ordered list using <ol> and <li>. I also used <br> to give the page a little more structure.
